@@ -1,0 +1,24 @@
+---
+layout: page
+title: "Books"
+description: "읽은 책에 대해서 소감을 남겨 놓습니다"
+type: category
+permalink: "/books"
+---
+
+<div class="posts-list">
+    {% for post in site.categories.Books %}
+    <article class="post-preview">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+            {% if post.description %}
+            <h3 class="post-subtitle">{{ post.description }}</h3>
+            {% endif %}
+        </a>
+        <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+        {% if post.tags.size > 0 %}
+        <div class="blog-tags">#{{ post.tags | join: "  #" }}</div>
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>

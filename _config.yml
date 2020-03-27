@@ -1,0 +1,57 @@
+# Site Settings
+title: RabbitThief's LOG
+description: "배는 항구에 있을 때 가장 안전하다. 그러나 그것이 배의 존재 이유는 아니다."
+url: "https://rabbitthief37.github.io"
+facebook_username: "RabbitThief"
+github_username: "RabbitThief37"
+twitter_username: "RabbitThief"
+#instagram_username: "itsme.taeng"
+header-img: "img/common/home_top_banner.jpg"
+avatar-img: "img/profile/profile.jpg"
+og-img: "img/meta/og_image.jpg"
+headercolor: "#FFFFFF"
+# g-analytics: "UA-111002457-1"
+
+# Server Settings
+baseurl: ""
+
+# Converting
+markdown: kramdown
+highlighter: rouge
+
+# Constants
+max_description_length: 50
+
+# Colors in CSS
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+link-col: "#707070"
+hover-col: "#707070"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#A44B8A"
+
+# List of links in the navigation bar
+nav_menus:
+  Home: ""
+  About Me: "about"
+  Category: "category"
+  Timeline: "timeline"
+
+# Plugins Settings
+plugins: 
+  - jekyll-paginate
+
+# Read Processing
+exclude: 
+  - README.md
+  - .jekyll-cache
+
+# Print Settings
+permalink: /post/:title
+paginate: 10
+paginate_path: /page:num
+
+# Time Zone
+timezone: Asia/Seoul

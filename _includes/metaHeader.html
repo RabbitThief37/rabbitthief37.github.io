@@ -1,0 +1,17 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="theme-color" content="#F7F7F7"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="author" content="RabbitThief"/>
+<meta name="title" content="{% if page.title %}{{ page.title }}{% else %}RabbitThief's LOG{% endif %}"/>
+<!-- <meta name="google-site-verification" content="aS92SqPc_nT-M9rztxaMZAkq-SPUxSISK_niJZWoNUI"/>
+<meta name="naver-site-verification" content="297c1631d958b7dd8cfb6e8c785175d3fba18e1f"/> -->
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}RabbitThief's LOG{% endif %}"/>
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}/{{ site.og-img }}"/>
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
+<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.png">
+<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<!-- SEO Optimalize -->
+<link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
