@@ -12,6 +12,7 @@
 <meta property="og:image" content="{{ site.url }}/{{ site.og-img }}"/>
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
 <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.png">
-<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<!-- <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title> -->
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <!-- SEO Optimalize -->
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
