@@ -6,7 +6,6 @@ author: RabbitThief
 date: 2020-04-01 17:31:00 +0900
 tags: holywaveplus book protestantism 
 category: Books
-
 comments: false
 ---	
 
