@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "프로젝트-빵테온 node.js - sqlite3 진행 중 #1"
-description: "토이 프로젝트인 프로젝트-node.js와 sqlite3를 연결하기 시작"
+title: '프로젝트-빵테온 node.js - sqlite3 진행 중 #1'
+description: 토이 프로젝트인 프로젝트-node.js와 sqlite3를 연결하기 시작
 author: RabbitThief
-date: 2020-04-27 23:55:00 +0900
-tags: raspberrypi nodejs sqlite3 
+date: '2020-04-27 23:55:00 +0900'
+tags: raspberrypi nodejs sqlite3
 category: Raspberrypi
 comments: false
----	
+published: true
+---
+	
 
 
 
@@ -25,7 +27,7 @@ npm i -g nodemon
 npm i -D nodemon
 ```
 
-![1](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-04-27/1.png)
+![1](/assets/article_images/2020-04-27/1.png)
 
 대충 이런 version들이 설치가 된다.
 
@@ -39,7 +41,7 @@ npm i -D nodemon
 
 동일한 함수에서 나오는거 같기는 한데, 내가 고칠 만한 능력은... 😝
 
-![2](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-04-27/2.png)
+![2](/assets/article_images/2020-04-27/2.png)
 
 무엇인가 깔끔하게 서로 맞는 않는 분위기이다. 
 
@@ -73,7 +75,7 @@ db.close((err) => {
 });
 ```
 
-![3](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-04-27/3.png)
+![3](/assets/article_images/2020-04-27/3.png)
 
 문제 없이 모듈이 동작하는 것으로 보인다. 
 
