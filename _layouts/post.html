@@ -7,6 +7,11 @@ layout: default
 <!-- {% include topAdSense.html %} -->
 
 <article class="post_container">
+    <div style="text-align: center;">
+        <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
+          <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
+        </a>
+    </div> 
     <div id="content" class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -14,11 +19,6 @@ layout: default
             </div>
         </div>
     </div>
-    <div style="text-align: center;">
-        <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
-          <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
-        </a>
-    </div> 
 </article>
 
 <!-- {% include bottomAdSense.html %} -->
