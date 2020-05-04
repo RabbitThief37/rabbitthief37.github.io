@@ -10,7 +10,7 @@ header-img: "img/common/home_top_banner.jpg"
 avatar-img: "img/profile/profile.jpg"
 og-img: "img/meta/og_image.jpg"
 headercolor: "#FFFFFF"
-# g-analytics: "UA-111002457-1"
+g-analytics: "UA-165429937-1"
 
 # Server Settings
 baseurl: ""
