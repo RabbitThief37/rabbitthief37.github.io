@@ -9,7 +9,7 @@ category: Raspberrypi
 comments: false
 published: true
 ---
-	
+
 
 
 
@@ -22,7 +22,7 @@ express를 비롯하여 책에서 필요하다고 추천하는 부분을 같이 
  view module은 필요 없을 것이라서 pug만 제외했다.
 
 ```
-npm i express cookie-parser express-session morgan connect-falsh 
+npm i express cookie-parser express-session morgan connect-flash 
 npm i -g nodemon
 npm i -D nodemon
 ```
