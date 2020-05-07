@@ -21,9 +21,9 @@ comments: false
 npm i express cookie-parser express-session morgan connect-flash
 ```
 
-![7](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-05-06/7.png)
+![7](/assets/article_images/2020-05-06/7.png)
 
-![8](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-05-06/8.png)
+![8](/assets/article_images/2020-05-06/8.png)
 
 
 
@@ -33,7 +33,7 @@ npm i -g nodemon
 
 이렇게 하면 된다고 [책](https://rabbitthief37.github.io/post/br-nodejs-textbook) 에는 있지만 
 
-![9](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-05-06/9.png) 
+![9](/assets/article_images/2020-05-06/9.png) 
 
 접근 권한 때문이라는 전형적인 문제 발생.  따라서 sudo를 추가해서 설치를 진행했다.
 
@@ -43,7 +43,7 @@ npm i -g nodemon
 sudo npm i -g nodemon
 ```
 
-![10](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-05-06/10.png)
+![10](/assets/article_images/2020-05-06/10.png)
 
 
 
@@ -51,7 +51,7 @@ sudo npm i -g nodemon
 sudo npm i -D nodemon
 ```
 
-![11](/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-05-06/11.png)
+![11](/assets/article_images/2020-05-06/11.png)
 
 
 
