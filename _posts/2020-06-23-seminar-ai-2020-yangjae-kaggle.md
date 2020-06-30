@@ -16,11 +16,11 @@ published: true
 
 완료해야 하는 목표는 다 들었고, 나머지 추가로 옵션인 추가 학습 트랙이 있길래 하나씩 들어 보고 있는 중이다. 
 
-<img src="/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-06-23/1.png" alt="1" style="zoom:50%;" />
+<img src="/assets/article_images/2020-06-23/1.png" alt="1" style="zoom:50%;" />
 
 프로그래밍 수학 부분에서는 딱히 언급할만 내용이 없다.  과목 소개에 있는 대로 기초적인 수학내용들을 파이썬으로 약간씩 실습해 보는 내용이었다.  강의 PPT도 다운을 안 받은 것을 보면 새롭네~ 라는 느낌은 없었던 것으로 보인다.
 
-<img src="/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-06-23/2.png" alt="2" style="zoom:50%;" />
+<img src="/assets/article_images/2020-06-23/2.png" alt="2" style="zoom:50%;" />
 
 아쉬운 것은 그 다음에 들은 **캐글 문제로 배우는 데이터 분석** 이다.  아이템도 좋은 실습을 할 수 있고, 실제적으로 가장 가깝게 경험해 볼 수 있는 내용들이었는데, 강의 시간의 문제였는지 아니면 이전에 내가 알지 못한 다른 강의에서 충분한 설명을 해서 빠진 것인지, 문제의 후반부에 데이터를 변경하는데에 대한 설명이 너무 부족했다.  
 
@@ -28,7 +28,7 @@ published: true
 
 강사도 열심히 하고 아이템도 괜찮았는데 내용이 조금 더 섬세했으면 하는 강의였다.  그래도 그나마 이 과정에서 들은 강의 중에서  좋은 강의로 뽑아 볼만은 했다.
 
-<img src="/Users/kskim/Documents/rabbitthief37.github.io/assets/article_images/2020-06-23/3.png" alt="3" style="zoom:50%;" />
+<img src="/assets/article_images/2020-06-23/3.png" alt="3" style="zoom:50%;" />
 
 아직 안 들어본 것이 2개 남아 있는데, 큰 기대는 하고 있지는 않지만 혹시나 하는 맘에 마무리를 해 볼려고 한다.
 
