@@ -14,7 +14,7 @@ published: true
 
 ## [STM32 2020 라인업 및 STM32 Discovery Day Online Track 2020 행사 소개 - 최경화](https://rabbitthief37.github.io/assets/article_images/2020-09-01/(Day1-1)STM32_introduction.pdf)
 
-![_2020-09-01__6.00.46](/assets/article_images/2020-09-01/_2020-09-01__6.00.46.png)
+![_2020-09-01__6.00.46](/assets/article_images/2020-09-01/1.png)
 
 * 이것 한장으로 요약 가능
 * 발표는 어색함의 극치
