@@ -15,27 +15,27 @@ published: true
 ## [Microsoft IoT solutions overview - 강희권](https://rabbitthief37.github.io/assets/article_images/2020-09-02/(Day2-1)STM32MP1_Microprocessor.pdf)
 
 
-![/assets/article_images/2020-09-02/_2020-09-03__12.12.02.png](/assets/article_images/2020-09-02/_2020-09-03__12_12_02.png)
+![/assets/article_images/2020-09-02/_2020-09-03__12.12.02.png](/assets/article_images/2020-09-02/1.png)
 
 - 별도의 OS에서 동작하지만 통신 경로는 연결되어 있음
 
-    ![/assets/article_images/2020-09-02/_2020-09-03__12.15.20.png](/assets/article_images/2020-09-02/_2020-09-03__12_15_20.png)
+    ![/assets/article_images/2020-09-02/_2020-09-03__12.15.20.png](/assets/article_images/2020-09-02/2.png)
 
 - 따로 국밥인거 같은 느낌인데.
 
-    ![/assets/article_images/2020-09-02/_2020-09-03__12.17.56.png](/assets/article_images/2020-09-02/_2020-09-03__12_17_56.png)
+    ![/assets/article_images/2020-09-02/_2020-09-03__12.17.56.png](/assets/article_images/2020-09-02/3.png)
 
 - Basic boot chain
 
-    ![/assets/article_images/2020-09-02/_2020-09-03__12.18.48.png](/assets/article_images/2020-09-02/_2020-09-03__12_18_48.png)
+    ![/assets/article_images/2020-09-02/_2020-09-03__12.18.48.png](/assets/article_images/2020-09-02/4.png)
 
 - 개발이 쉽지 않고 많은 부분을 고려해야 하는 구조다.  사용할려면 공부 빡시게 하지 않으면 자원 낭비각.
 
-    ![/assets/article_images/2020-09-02/_2020-09-03__12.21.06.png](/assets/article_images/2020-09-02/_2020-09-03__12_21_06.png)
+    ![/assets/article_images/2020-09-02/_2020-09-03__12.21.06.png](/assets/article_images/2020-09-02/5.png)
 
 - 옆에 있던 OS팀에서 했던 작업이 Distribution Package의 위치로군.
 
-    ![/assets/article_images/2020-09-02/_2020-09-03__12.23.03.png](/assets/article_images/2020-09-02/_2020-09-03__12_23_03.png)
+    ![/assets/article_images/2020-09-02/_2020-09-03__12.23.03.png](/assets/article_images/2020-09-02/6.png)
 
 - 그래서 얼만데?
 
@@ -48,9 +48,9 @@ published: true
 
 - 사전 제작인데 음질이 개판. ㅡ.ㅡ;
 
-![/assets/article_images/2020-09-02/_2020-09-03__12.31.44.png](/assets/article_images/2020-09-02/_2020-09-03__12_31_44.png)
+![/assets/article_images/2020-09-02/_2020-09-03__12.31.44.png](/assets/article_images/2020-09-02/7.png)
 
-![/assets/article_images/2020-09-02/_2020-09-03__12.37.11.png](/assets/article_images/2020-09-02/_2020-09-03__12_37_11.png)
+![/assets/article_images/2020-09-02/_2020-09-03__12.37.11.png](/assets/article_images/2020-09-02/8.png)
 
 - 집중해서 듣지 못했다. 하지만 별루였던 발표인건 알겠다.
 
