@@ -11,9 +11,9 @@ published: true
 ---
 
 
-- # **9월 4일**
+# **9월 4일**
 
-    ## [TouchGFX, STM32 전용 무료 그래픽 솔루션 - 김두형](https://rabbitthief37.github.io/assets/article_images/2020-09-04/(Day4-1)TouchGFX.pdf)
+## [TouchGFX, STM32 전용 무료 그래픽 솔루션 - 김두형](https://rabbitthief37.github.io/assets/article_images/2020-09-04/(Day4-1)TouchGFX.pdf)
 
     ![STM32%20Discovery%20Day%20Online%20Track%202020%20be08e47a70b64201b718043bb29145f3/Untitled.png](/assets/article_images/2020-09-04/Untitled.png)
 
@@ -37,7 +37,7 @@ published: true
 
     ![STM32%20Discovery%20Day%20Online%20Track%202020%20be08e47a70b64201b718043bb29145f3/Untitled%206.png](/assets/article_images/2020-09-04/Untitled_6.png)
 
-    ## [STM32Cube.AI](http://stm32cube.ai/), [Neural Networks on STM32 - 문현수](https://rabbitthief37.github.io/assets/article_images/2020-09-04/(Day4-2)STM32CubeAI_Neural_Networks_on_STM32.pdf)
+## [STM32Cube.AI](http://stm32cube.ai/), [Neural Networks on STM32 - 문현수](https://rabbitthief37.github.io/assets/article_images/2020-09-04/(Day4-2)STM32CubeAI_Neural_Networks_on_STM32.pdf)
 
     ![STM32%20Discovery%20Day%20Online%20Track%202020%20be08e47a70b64201b718043bb29145f3/Untitled%207.png](/assets/article_images/2020-09-04/Untitled_7.png)
 
