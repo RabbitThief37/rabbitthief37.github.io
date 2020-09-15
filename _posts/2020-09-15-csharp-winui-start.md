@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MacOS에서 Raspberry Pi 이미지 만들기"
-description: "예전에는 shell command로 했던 것을 GUI program을 이용해서 처리"
+title:  "WinUI 3.0 도전기"
+description: "아직은 하지 마라. 좀 더 기다려야만 한다."
 author: RabbitThief
 date: 2020-09-15 10:39:00 +0900
 tags: c# winui 
