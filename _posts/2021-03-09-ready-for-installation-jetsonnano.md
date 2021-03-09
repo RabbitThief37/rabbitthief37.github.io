@@ -23,7 +23,7 @@ comments: false
 
 그다지 많은 프로그램을 설치 하지 않을 것이기에 32GB정도를 생각하고 있었는데
 
-![/assets/images/2021/0309/Untitled201.png](/assets/images/2021/0309/Untitled201.png)
+![/assets/images/2021/0309/Untitled201.png](/assets/images/2021/0309/Untitled1.png)
 
 와~ 쓰기 속도 보소.
 
@@ -31,11 +31,11 @@ comments: false
 
 무사히 물건이 왔으니 포멧부터
 
-![/assets/images/2021/0309/__2021-01-25_082835.png](/assets/images/2021/0309/__2021-01-25_082835.png)
+![/assets/images/2021/0309/2021-01-25_082835.png](/assets/images/2021/0309/2021-01-25_082835.png)
 
-![/assets/images/2021/0309/__2021-01-25_082938.png](/assets/images/2021/0309/__2021-01-25_082938.png)
+![/assets/images/2021/0309/2021-01-25_082938.png](/assets/images/2021/0309/2021-01-25_082938.png)
 
-![/assets/images/2021/0309/__2021-01-25_083009.png](/assets/images/2021/0309/__2021-01-25_083009.png)
+![/assets/images/2021/0309/2021-01-25_083009.png](/assets/images/2021/0309/2021-01-25_083009.png)
 
 정확한 용량이 잘 나오는 것을 확인할 수 있다. 
 
@@ -45,22 +45,22 @@ comments: false
 
 금방 끝남.
 
-![/assets/images/2021/0309/__2021-01-25_083046.png](/assets/images/2021/0309/__2021-01-25_083046.png)
+![/assets/images/2021/0309/2021-01-25_083046.png](/assets/images/2021/0309/2021-01-25_083046.png)
 
-![/assets/images/2021/0309/__2021-01-25_083140.png](/assets/images/2021/0309/__2021-01-25_083140.png)
+![/assets/images/2021/0309/2021-01-25_083140.png](/assets/images/2021/0309/2021-01-25_083140.png)
 
-![/assets/images/2021/0309/__2021-01-25_083156.png](/assets/images/2021/0309/__2021-01-25_083156.png)
+![/assets/images/2021/0309/2021-01-25_083156.png](/assets/images/2021/0309/2021-01-25_083156.png)
 
-![/assets/images/2021/0309/__2021-01-25_083209.png](/assets/images/2021/0309/__2021-01-25_083209.png)
+![/assets/images/2021/0309/2021-01-25_083209.png](/assets/images/2021/0309/2021-01-25_083209.png)
 
-![/assets/images/2021/0309/__2021-01-25_083225.png](/assets/images/2021/0309/__2021-01-25_083225.png)
+![/assets/images/2021/0309/2021-01-25_083225.png](/assets/images/2021/0309/2021-01-25_083225.png)
 
-![/assets/images/2021/0309/__2021-01-25_083246.png](/assets/images/2021/0309/__2021-01-25_083246.png)
+![/assets/images/2021/0309/2021-01-25_083246.png](/assets/images/2021/0309/2021-01-25_083246.png)
 
 앗! 
 
 물론 모든 작업이 마친 뒤에 아래와 같은 상황이 발생하지만 당황하지 마라. 그냥 포커스를 위해 한번 클릭을 해 주고 ESC 무한 누르기를 하면 없어진다.  너~~~~~~~~무 친절한 윈도우씨.
 
-![/assets/images/2021/0309/__2021-01-25_084844.png](/assets/images/2021/0309/__2021-01-25_084844.png)
+![/assets/images/2021/0309/2021-01-25_084844.png](/assets/images/2021/0309/2021-01-25_084844.png)
 
-![/assets/images/2021/0309/__2021-01-25_085314.png](/assets/images/2021/0309/__2021-01-25_085314.png)
+![/assets/images/2021/0309/2021-01-25_085314.png](/assets/images/2021/0309/2021-01-25_085314.png)
