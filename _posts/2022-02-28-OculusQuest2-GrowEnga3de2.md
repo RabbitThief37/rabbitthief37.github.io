@@ -23,7 +23,7 @@ comments: false
 
 청중이 콘텐츠에 참여하는 방법을 배우면 모든 사용자 접점에서 마케팅을 향상시킬 수 있습니다. 업계 통찰력에서 생태계 관점에 이르기까지 VR 생태계의 상태와 Quest 플랫폼 내에서 통합하는 새로운 기능에 대해 배우는 데 필요한 리소스가 있습니다.
 
-[Developer State of the Union | Connect 2021](https://www.youtube.com/watch?v=JDYp3LGoYMY)
+[Developer State of the Union](https://www.youtube.com/watch?v=JDYp3LGoYMY)
 
 ## GAIN INSIGHT INTO GAMER BEHAVIOR
 
@@ -45,10 +45,10 @@ comments: false
 
 앱 업데이트나 발표가 있습니까? 개발자 게시물은 입소문을 퍼뜨리는 가장 좋은 방법 중 하나입니다. 게시물은 이미 앱을 소유하고 있고 업데이트 수신에 관심이 있는 사용자에게 표시됩니다.
 
-[Developer Posts: Unity | Oculus Developers](https://developer.oculus.com/documentation/unity/ps-developer-posts/?utm_source=email&utm_medium=crm&utm_campaign=31372&utm_term=P0&utm_content=C2&utm_emailname=developer-newsletter-part1-february22_global_v1_marketing&utm_funnel=CONS&utm_placement=M1)
+[Developer Posts: Unity](https://developer.oculus.com/documentation/unity/ps-developer-posts/?utm_source=email&utm_medium=crm&utm_campaign=31372&utm_term=P0&utm_content=C2&utm_emailname=developer-newsletter-part1-february22_global_v1_marketing&utm_funnel=CONS&utm_placement=M1)
 
 ## GATHER A CROWD WITH DEVELOPER EVENTS
 
 개발자 이벤트는 놀라운 경험을 위해 사용자를 한데 모아 앱의 가시성과 동시성을 높입니다. 이 기능을 사용하면 시청 파티, 소셜 믹서 또는 게임 토너먼트와 같이 사용자가 참석할 시간별 모임을 주최할 수 있습니다.
 
-[Add Events to Oculus Home: Unity | Oculus Developers](https://developer.oculus.com/documentation/unity/ps-events/?utm_source=email&utm_medium=crm&utm_campaign=31372&utm_term=P0&utm_content=C2&utm_emailname=developer-newsletter-part1-february22_global_v1_marketing&utm_funnel=CONS&utm_placement=M1)
+[Add Events to Oculus Home: Unity](https://developer.oculus.com/documentation/unity/ps-events/?utm_source=email&utm_medium=crm&utm_campaign=31372&utm_term=P0&utm_content=C2&utm_emailname=developer-newsletter-part1-february22_global_v1_marketing&utm_funnel=CONS&utm_placement=M1)
