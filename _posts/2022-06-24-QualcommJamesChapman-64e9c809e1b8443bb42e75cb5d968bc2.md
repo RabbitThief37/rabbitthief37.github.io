@@ -4,7 +4,7 @@ title:  "Qualcomm James Chapman on the future of Snapdragon Sound"
 description: "2022-06-24 Qualcomm Sound 메일 번역"
 author: RabbitThief
 date: 2022-06-25 18:00:00 +0900
-tags: qualcomm snapdragonsound translatoin 
+tags: qualcomm snapdragonsound translation 
 category: qualcomm
 comments: false
 ---	

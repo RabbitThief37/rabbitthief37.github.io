@@ -4,7 +4,7 @@ title:  "u-boot README"
 description: "2022-03-02 uboot-2021.04-r0 README 번역"
 author: RabbitThief
 date: 2022-03-02 00:00:00 +0900
-tags: linux uboot translatoin 
+tags: linux uboot translation 
 category: linux
 comments: false
 ---	

@@ -4,7 +4,7 @@ title: "AN986: BLUETOOTH® A2DP AND AVRCP PROFILES GETTING STARTED GUIDE - 1"
 description: "SILICON LABS BLUETOOTH® A2DP AND AVRCP PROFILES 번역"
 author: RabbitThief
 date: 2022-05-30 18:00:00 +0900
-tags: bluetooth a2dp avrcp siliconlabs translatoin 
+tags: bluetooth a2dp avrcp siliconlabs translation 
 category: bluetooth
 comments: false
 ---	

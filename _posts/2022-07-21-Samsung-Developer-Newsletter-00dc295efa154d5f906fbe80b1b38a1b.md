@@ -4,7 +4,7 @@ title:  "Samsung Developer Newsletter: Light up the Sky in July"
 description: "2022-07-21 Samsung Developers 메일 번역"
 author: RabbitThief
 date: 2022-07-21 12:00:00 +0900
-tags: samsung developers translatoin 
+tags: samsung developers translation 
 category: samsung
 comments: false
 ---	

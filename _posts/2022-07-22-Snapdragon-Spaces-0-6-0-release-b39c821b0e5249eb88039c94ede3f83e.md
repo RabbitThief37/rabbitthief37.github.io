@@ -4,7 +4,7 @@ title:  "Snapdragon Spaces 0.6.0 release"
 description: "2022-07-22 Snapdragon Spaces 0.6.0 release 메일 번역"
 author: RabbitThief
 date: 2022-07-22 12:00:00 +0900
-tags: qualcomm snapdragonspaces translatoin 
+tags: qualcomm snapdragonspaces translation 
 category: qualcomm
 comments: false
 ---	

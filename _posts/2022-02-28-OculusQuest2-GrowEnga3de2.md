@@ -4,7 +4,7 @@ title:  "Grow & engage your audience"
 description: "2022-02-16 Oculus Quest2 마케팅 메일 번역"
 author: RabbitThief
 date: 2022-02-16 16:21:00 +0900
-tags: oculus marketing translatoin 
+tags: oculus marketing translation 
 category: oculus
 comments: false
 ---	

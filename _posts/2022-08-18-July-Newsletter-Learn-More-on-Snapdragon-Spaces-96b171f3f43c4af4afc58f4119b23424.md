@@ -4,7 +4,7 @@ title:  "July Newsletter: Learn More on Snapdragon Spaces and Qualcomm Robotics"
 description: "2022-08-18 July Newsletter 메일 번역"
 author: RabbitThief
 date: 2022-08-18 10:00:00 +0900
-tags: qualcomm newsletter translatoin 
+tags: qualcomm newsletter translation 
 category: qualcomm
 comments: false
 ---	

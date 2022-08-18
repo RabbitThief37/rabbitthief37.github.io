@@ -4,7 +4,7 @@ title:  "BlueTest3 USER GUIDE"
 description: "QualComm CSR8675 BlueTest3 USER GUIDE 번역"
 author: RabbitThief
 date: 2022-03-14 15:00:00 +0900
-tags: qualcomm csr8675 translatoin 
+tags: qualcomm csr8675 translation 
 category: bluetooth
 comments: false
 ---	

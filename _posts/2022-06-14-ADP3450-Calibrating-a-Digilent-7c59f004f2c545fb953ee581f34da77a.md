@@ -4,7 +4,7 @@ title: "ADP3450 - Calibrating a Digilent Test and Measurement Device"
 description: "ADP3450 - Calibrating a Digilent Test and Measurement Device 번역"
 author: RabbitThief
 date: 2022-06-14 18:00:00 +0900
-tags: adp3450 digilent calibration translatoin 
+tags: adp3450 digilent calibration translation 
 category: adp3450
 comments: false
 ---	
